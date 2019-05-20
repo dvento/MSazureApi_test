@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MSazureApi_test</string>
+    <string name="prompt">Select target language</string>
+</resources>
