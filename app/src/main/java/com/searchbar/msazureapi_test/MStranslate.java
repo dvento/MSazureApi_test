@@ -1,14 +1,23 @@
 package com.searchbar.msazureapi_test;
 
 import android.util.Log;
-
 import com.squareup.okhttp.*;
-
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
-
 import java.io.IOException;
+
+/*
+ *
+ * Daniel Vento, 2019. MIT license.
+ *
+ * Thanks to https://developer.android.com/ and https://docs.microsoft.com/en-us/azure/cognitive-services/translator/quickstart-java-translate
+ *
+ * https://economagically.blogspot.com/2019/05/use-microsoft-cognitive-services.html
+ *
+ * https://www.linkedin.com/in/ventod/
+ *
+ */
 
 public class MStranslate {
 

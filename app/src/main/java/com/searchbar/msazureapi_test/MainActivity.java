@@ -125,7 +125,6 @@ public class MainActivity extends AppCompatActivity {
     private void parseJson(String s) {
 
         try {
-            //JSONObject jsonObject = new JSONObject(s);
 
             Gson gson = new Gson();
             languages = gson.fromJson(s,Map.class);
